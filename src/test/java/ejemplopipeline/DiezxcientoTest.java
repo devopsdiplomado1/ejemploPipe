@@ -6,22 +6,28 @@ import org.junit.Test;
 
 public class DiezxcientoTest {
 
+
+	//cesar
 	@Test
 	public void testDiezxciento() throws Exception {
 		Diezxciento diezxciento = new Diezxciento(23000000,900000);
 		assertEquals(2300000, diezxciento.diezxciento());
 	}
 
+	//andres
 	@Test
 	public void testImpuesto() throws Exception {
 		Diezxciento diezxciento = new Diezxciento(23000000,900000);
 		assertEquals(0, diezxciento.impuesto());
 	}
 
+	//tamara
 	@Test
 	public void testSaldoAhorro() throws Exception {
 		Diezxciento diezxciento = new Diezxciento(23000000,900000);
 		assertEquals(20700000, diezxciento.saldoAhorro());
 	}
+
+	//hacer mas assert
 
 }
