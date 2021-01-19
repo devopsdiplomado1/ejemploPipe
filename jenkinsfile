@@ -7,7 +7,6 @@ pipeline {
                 sh "/usr/local/opt/maven/bin/mvn clean"
             }
         }
-
         stage('test') {
             steps {
                 sh "/usr/local/opt/maven/bin/mvn compile"
