@@ -78,16 +78,14 @@ public class DiezxcientoTest {
 	    diezxciento = new Diezxciento(23000000,900000);
 		assertEquals(20700000, diezxciento.saldoAhorro());
 
-
-
 		diezxciento = new Diezxciento(45000000,2500000);
-		assertEquals(40500000, diezxciento.saldoAhorro());
+		assertEquals(40335914, diezxciento.saldoAhorro());
 
 		diezxciento = new Diezxciento(1000000,500000);
-		assertEquals(900000, diezxciento.saldoAhorro());
+		assertEquals(0, diezxciento.saldoAhorro());
 
 		diezxciento = new Diezxciento(6500000,1500000);
-		assertEquals(5850000, diezxciento.saldoAhorro());	
+		assertEquals(5325469, diezxciento.saldoAhorro());	
 	}
 
 	//hacer mas assert

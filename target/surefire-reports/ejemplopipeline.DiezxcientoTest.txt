@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: ejemplopipeline.DiezxcientoTest
 -------------------------------------------------------------------------------
-Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.002 s <<< FAILURE! - in ejemplopipeline.DiezxcientoTest
-testSaldoAhorro(ejemplopipeline.DiezxcientoTest)  Time elapsed: 0 s  <<< FAILURE!
-java.lang.AssertionError: expected:<40500000> but was:<40335914>
-	at ejemplopipeline.DiezxcientoTest.testSaldoAhorro(DiezxcientoTest.java:84)
-
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in ejemplopipeline.DiezxcientoTest

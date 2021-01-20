@@ -17,7 +17,7 @@
     <property name="user.country" value="CL"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib"/>
-    <property name="sun.java.command" value="/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire/surefirebooter6004064941605254771.jar /Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire 2021-01-19T20-58-12_189-jvmRun1 surefire3760615357159741395tmp surefire_02376163237022471630tmp"/>
+    <property name="sun.java.command" value="/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire/surefirebooter4518719514459434243.jar /Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire 2021-01-19T21-01-10_086-jvmRun1 surefire1456159733222567364tmp surefire_05568655821951984927tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="surefire.test.class.path" value="/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/test-classes:/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/classes:/Users/rodrigozuniga/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/rodrigozuniga/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire/surefirebooter6004064941605254771.jar"/>
+    <property name="surefire.real.class.path" value="/Users/rodrigozuniga/RepoDevops/ejemploPipe/target/surefire/surefirebooter4518719514459434243.jar"/>
     <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_201.jdk/Contents/Home/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
@@ -61,5 +61,5 @@
     <property name="java.class.version" value="52.0"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="ejemplopipeline.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="ejemplopipeline.AppTest" time="0.001"/>
 </testsuite>
